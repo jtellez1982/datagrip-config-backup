@@ -1,0 +1,106 @@
+<application>
+  <component name="AILicenseTypeStorage">
+    <option name="selectedType" value="PRO" />
+  </component>
+  <component name="AipLicense">
+    <option name="licenseId" value="MBBEH6D2HR" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Segoe UI" />
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;DG.SingleStripe.Customization2&quot;: &quot;true&quot;,
+    &quot;DG.SingleStripe.LastLocale&quot;: &quot;en&quot;,
+    &quot;DbRenameDialog.previewExpanded&quot;: &quot;true&quot;,
+    &quot;GridFilterComponent.FILTER_PREFERRED_SIZE&quot;: &quot;421&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;jetbr\njetb\njet\nje\nintellige&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;6&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators&quot;: &quot;DB-243.22562.115&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors&quot;: &quot;DB-243.22562.115&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;RunOnceActivity.Run Grazie Token Refresher&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.llm.show.ai.promotion.window.on.start&quot;: &quot;true&quot;,
+    &quot;SqlStructureView.filterD.file.structure.state&quot;: &quot;true&quot;,
+    &quot;WelcomeFeature.SHORT_WELCOME_GUIDE_SHOWN&quot;: &quot;true&quot;,
+    &quot;ai.promo.window.was.actually.shown&quot;: &quot;true&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;com.intellij.database.actions.DbDeleteProvider$2.proportion&quot;: &quot;0.5&quot;,
+    &quot;com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion&quot;: &quot;0.5&quot;,
+    &quot;database.data.extractors.output.dir&quot;: &quot;C:\\Users\\Jonathan\\OneDrive - DIGITAL DATA SA DE CV\\Digital Data\\Sistemas\\Soporte\\Digitalización\\Peninsular&quot;,
+    &quot;database.data.paste.format&quot;: &quot;format:Pipe-separated_id&quot;,
+    &quot;database.notebook.setting.id&quot;: &quot;13b13ceb-f7e5-499c-b133-9f86e3b843bf&quot;,
+    &quot;evlsprt.242&quot;: &quot;192899caf00&quot;,
+    &quot;evlsprt3.241&quot;: &quot;3&quot;,
+    &quot;evlsprt3.242&quot;: &quot;6&quot;,
+    &quot;evlsprt3.243&quot;: &quot;5&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;243.22562.115&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;4&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;18&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;got.it.tooltip.database.schema.control.got.it&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.llm.sql.database.context&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;DB-243.22562.115&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;llm.installer.auto.activation.executed&quot;: &quot;true&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;AI_ASSISTANT&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;DB-243.22562.115&quot;,
+    &quot;tab_selection_count&quot;: &quot;5&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;C:/Users/Jonathan/OneDrive - DIGITAL DATA SA DE CV/Digital Data/Sistemas/Soporte/Digitalización/Peninsular&quot;,
+      &quot;C:/Users/Jonathan/OneDrive - DIGITAL DATA SA DE CV&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "GoToAction": 1733536700420,
+    "Rename": 1734445952298,
+    "CtrlW": 1733321397033,
+    "SpeedSearch": 1725384086110,
+    "ClipboardStack": 1733672461024,
+    "SearchEverywhere": 1734106471213,
+    "GoToDeclaration": 1732803877985,
+    "CommentCode": 1733453270360,
+    "FindReplaceToggle": 1734229230419,
+    "ShowUsages": 1733286645012,
+    "FileStructurePopup": 1730814941915,
+    "FindInPath": 1734289666746,
+    "CamelHumpsInCodeCompletion": 1724170009036,
+    "CtrlShiftI": 1733755781703,
+    "find_usages": 1731513065946
+  },
+  "proposedTips": {
+    "GoToAction": 1733536700214,
+    "Rename": 1734445951815,
+    "CtrlW": 1733321396879,
+    "SpeedSearch": 1725384084762,
+    "ClipboardStack": 1733672460838,
+    "SearchEverywhere": 1734106470909,
+    "GoToDeclaration": 1732803877825,
+    "CommentCode": 1733453270097,
+    "FindReplaceToggle": 1734229230201,
+    "ShowUsages": 1733286644686,
+    "FileStructurePopup": 1730814941329,
+    "FindInPath": 1734289666570,
+    "CamelHumpsInCodeCompletion": 1724170008925,
+    "CtrlShiftI": 1733755781532,
+    "find_usages": 1731513065580
+  },
+  "tipsOrderSeed": 1723070385271
+}]]></component>
+</application>

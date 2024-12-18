@@ -1,0 +1,22 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Jonathan\AppData\Local\JetBrains\PyCharm2024.1\demo\PyCharmLearningProject" value="true" />
+        <entry key="C:\Users\Jonathan\DataGripProjects\Digital Data" value="true" />
+        <entry key="C:\Users\Jonathan\DataGripProjects\DigitalData" value="true" />
+        <entry key="C:\Users\Jonathan\OneDrive\DevPy" value="true" />
+        <entry key="C:\Users\Jonathan\OneDrive\DevPy\ContadorPáginas\ContadorPáginas" value="true" />
+        <entry key="C:\Users\Jonathan\OneDrive\DevPy\ConvertidorPDF\ConvertidorPDF" value="true" />
+        <entry key="C:\Users\Jonathan\OneDrive\DevPy\contadorOffice\contadorOffice" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\Jonathan\OneDrive" />
+      </list>
+    </option>
+  </component>
+</application>

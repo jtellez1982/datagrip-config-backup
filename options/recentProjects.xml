@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DataGripProjects/Digital Data">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Digital Data – console [SRVASF]" opened="true" projectWorkspaceId="2kLjdZyXFMm3P0JGu4cHjwNr1lJ">
+              <option name="activationTimestamp" value="1734481889551" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-242.21829.162" />
+              <option name="buildTimestamp" value="1724950920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-8" y="-8" width="1450" height="870" extendedState="6" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1732722607595" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/DataGripProjects/Digital Data" />
+  </component>
+</application>

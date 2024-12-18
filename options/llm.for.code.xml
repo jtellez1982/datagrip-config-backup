@@ -1,0 +1,7 @@
+<application>
+  <component name="LLMSettings">
+    <option name="chat_natural_language" value="español" />
+    <option name="chat_natural_language_selection" value="true" />
+    <option name="data_sharing" value="true" />
+  </component>
+</application>

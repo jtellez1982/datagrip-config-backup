@@ -1,0 +1,28 @@
+UPDATE PC
+SET PC.CIAGENERADORA = BPC.CIAGENERADORA
+  , PC.FECHA         = BPC.FECHA
+  , PC.TOMO          = BPC.TOMO
+  , PC.VIGENCIA      = BPC.VIGENCIA
+  , PC.ID_CLTE       = BPC.ID
+  , PC.OFICINAS_OBRA = BPC.OFICINAS_OBRA
+  , PC.CONCEPTO      = BPC.CONCEPTO
+  , PC.IMPORTE       = BPC.IMPORTE
+  , PC.CANTANEXOS    = BPC.CANT_ANEXOS
+    FROM Peninsular.dbo.Datos_PolizasContables PC
+             INNER JOIN Peninsular.dbo.BASE_Polizas_Contables BPC ON PC.NOCAJALEGAJONUMPOLIZA = BPC.NumCajaLegajoNumero
+
+UPDATE Peninsular.dbo.Datos_PolizasContables
+SET NOCAJALEGAJONUMPOLIZA = NOCAJA + LEGAJO + NUMPOLIZA + TIPODOCUMENTO
+    WHERE NOCAJALEGAJONUMPOLIZA = ''
+
+SELECT DID, REPLACE(Path, 'SRVKOFAX', '10.0.1.36') AS PATH
+    FROM Peninsular.dbo.Documento
+    WHERE DID = 778925
+
+SELECT *
+    FROM Peninsular.dbo.Datos_PolizasContables
+WHERE CIAGENERADORA = 'REMORD SEM47 RAMAL OCUILAN CLP'
+
+SELECT * FROM Peninsular.dbo.BASE_Polizas_Contables
+WHERE NumCaja = 622
+AND LEGAJO = 1
